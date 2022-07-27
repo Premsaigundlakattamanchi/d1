@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-* Complete ruby on rails development course
+* First Test Repo on Complete ruby on rails development course
